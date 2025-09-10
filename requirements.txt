@@ -1,0 +1,11 @@
+hydra-core
+ipdb
+kornia
+matplotlib
+numpy
+omegaconf
+opencv_python
+Pillow
+PyYAML
+scikit-image
+wandb
