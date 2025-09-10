@@ -1,6 +1,6 @@
 # DSNET
 This is the official PyTorch code for our paper 
-DSNET: DUAL-STREAMHARMONIZATIONNETWORKFORIMAGEENHANCEMENT
+DSNet: Dual-Stream Harmonization Network for Image Enhancement
 
 ![Framework](./main.jpg)
 
